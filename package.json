@@ -1,6 +1,6 @@
 {
   "name": "@armscye/hook",
-  "version": "0.7.4",
+  "version": "0.8.0",
   "description": "Common TypeScript types for application lifecycle hooks.",
   "keywords": [
     "armscye",
